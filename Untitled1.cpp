@@ -6,4 +6,5 @@ int main(){
 	cout<<"huynh tan dinh";
 	cout<<"Dang Hong Phuc";
 	cout<<" tran dieu  huyen";
+	cout<<"nguyen quang bao";
 }
