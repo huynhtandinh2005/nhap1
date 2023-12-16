@@ -8,4 +8,5 @@ int main(){
 	cout<<" tran dieu  huyen";
 	cout<<"nguyen quang bao";
 	cout<<"nguyen cong vinh";
+    cout<<"ngo huu thuan";
 }
